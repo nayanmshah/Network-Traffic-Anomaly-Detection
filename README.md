@@ -78,5 +78,9 @@ This module performs anomaly detection using **Isolation Forest**:
 - **Visualizing the results**: Using PCA to reduce the data to 2D and plotting anomalies.
 
 
+## **Output**
+![Screenshot 2025-04-24 at 5 45 21 PM](https://github.com/user-attachments/assets/b0b706fd-6d47-41cc-89a4-8d9bcbe97360)
+
+
 ---
 
