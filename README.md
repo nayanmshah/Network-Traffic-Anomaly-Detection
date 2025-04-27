@@ -79,7 +79,8 @@ This module performs anomaly detection using **Isolation Forest**:
 
 
 ## **Output**
-![Screenshot 2025-04-24 at 5 45 21 PM](https://github.com/user-attachments/assets/b0b706fd-6d47-41cc-89a4-8d9bcbe97360)
+![Screenshot 2025-04-24 at 5 45 21 PM](https://github.com/user-attachments/assets/320a8705-a9ec-4e3c-bd5c-1d6db668b9dc)
+
 
 
 ---
